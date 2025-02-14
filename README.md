@@ -1,4 +1,4 @@
-# Portas Secretas - Mini Jogo
+# Quiz - Mini Jogo
 
 **Quiz** é um mini jogo de perguntas e respostas, a ideia foi praticar a utilização de recursos do Next.js como api e React.
 
