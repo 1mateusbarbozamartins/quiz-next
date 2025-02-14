@@ -34,4 +34,4 @@ Este projeto foi criado com:
 
 - **Next.js**: Framework para a construção da aplicação web.
 - **React**: Biblioteca para construção da interface de usuário.
-- **JavaScript**: Linguagem principal utilizada no projeto.
+- **Typescript**: Linguagem principal utilizada no projeto.
