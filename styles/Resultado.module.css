@@ -6,3 +6,18 @@
     height: 100vh;
     font-size: 2rem;
 }
+
+.estatistica {
+    display: flex;
+}
+
+@media (max-width: 768px) {
+    .estatistica {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .resultado h1 {
+        font-size: 2.5rem;
+    }
+}

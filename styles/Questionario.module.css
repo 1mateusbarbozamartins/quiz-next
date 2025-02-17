@@ -5,3 +5,11 @@
     align-items: center;
     height: 100vh;
 }
+
+@media (max-width: 768px) {
+    .questionario {
+        height: auto;
+        width: 600px;
+        padding: 50px 30px;
+    }
+}
